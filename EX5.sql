@@ -1,4 +1,4 @@
-## Chapter 13 Usippng Transaction
+## Chapter 13 Using Transaction
 
 USE Corporation;
 SELECT * FROM Employees;
